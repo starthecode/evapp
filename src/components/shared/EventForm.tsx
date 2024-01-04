@@ -7,7 +7,6 @@ import { eventDefaultValues } from '@/constants';
 
 import Dropdown from './Dropdown';
 import React from 'react';
-import { FileUploader } from './FileUploader';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import Image from 'next/image';
